@@ -1,6 +1,6 @@
 # Uyghur Translation Page
 This is a simple HTML, CSS, and JavaScript Webpage that allows users to translate text from one language to another and have the result read out loud to them. The application utilizes the Google Translate API to detect the language of the input text and translate it to the selected language.
-
+## [Demo](https://htmlpreview.github.io/?https://github.com/UyCoder/UyghurTranslationPage/blob/5d2122baa6b3b239abb688c095827827569775d5/translateAndSpeech.html)
 ## Features
 - Automatic language detection for input text
 - Translation to multiple languages including English, Russian, French, German, Spanish, Turkish, Arabic, Uygur, and Chinese
